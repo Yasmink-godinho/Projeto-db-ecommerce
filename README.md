@@ -78,7 +78,7 @@ HAVING COUNT(o.idOrders) >= 2;
 1. Clone este repositório:
 
    ```bash
-   git clone <[Projeto-db-ecommerce](https://github.com/Yasmink-godinho/Projeto-db-ecommerce.git)>
+   git clone https://github.com/Yasmink-godinho/Projeto-db-ecommerce.git
    ```
 2. Abra o arquivo `ecommerce_script_creation.sql` em um SGBD compatível com **MySQL** (Workbench, DBeaver, etc.).
 3. Execute o script completo → será criado o banco `ecommerce` com tabelas e dados de exemplo.
